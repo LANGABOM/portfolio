@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"lucide-react": "^0.460.0",
+		"card": "link:@/components/ui/card"
+	}
+}
